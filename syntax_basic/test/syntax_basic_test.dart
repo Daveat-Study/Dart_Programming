@@ -1,4 +1,4 @@
-import 'package:cheatsheet/cheatsheet.dart';
+import 'package:syntax_basic/syntax_basic.dart';
 import 'package:test/test.dart';
 
 void main() {
