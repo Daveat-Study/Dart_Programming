@@ -5,4 +5,8 @@ void main() {
   test('calculate', () {
     expect(calculate(), 42);
   });
+
+  test('testBitwise', (){
+    expect(bitwiseOpeartor(), true);
+  });
 }
